@@ -21,11 +21,11 @@ body{
       
 .left{
     grid-area:left;
-    background-color: red
+    background-color: red;
 }
 .right{
     grid-area: right;
-    background-color: blue;
+    background-color:orange;
 }
 .footer{
     grid-area: footer;
